@@ -1,7 +1,7 @@
 # ExokeletonExerciseMachine
 This project is to simulate and test how exoskeleton can sever exercise machine  
 
-! [cycling] ( ExokeletonExerciseMachine/Cycling Plot.png )
+! [cycling] (https://github.com/HuaweiWang/ExokeletonExerciseMachine/blob/master/Cycling%20Plot.png)
 
 This project will start with cycling exercise machine, since it is a simple exercise and only legs are used.
 
