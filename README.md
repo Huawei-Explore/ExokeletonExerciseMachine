@@ -1,9 +1,10 @@
 # ExokeletonExerciseMachine
 This project is to simulate and test how exoskeleton can sever exercise machine
 
-![cyclingfigureplot](https://user-images.githubusercontent.com/16920937/45460913-2714e880-b6ce-11e8-99f9-fa74e6c0e566.png)
-
 This project will start with cycling exercise machine, since it is a simple exercise and only legs are used.
+
+<img scr="/CyclingFigurePlot.png" width = 400>
+
 
 Primary task are: 
 
